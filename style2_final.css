@@ -1,0 +1,59 @@
+@import url("https://maxcdnbootstarpcdn.com/bootstrap/4.0-beta/css.min.css");
+
+.nav1{
+	background-color:  #000000;
+	color: #8B0000;
+	list-style: none;
+	text-align: center
+	padding: 20px 0 20px 0;
+}
+
+.nav1> li{
+	display: inline-block;
+	padding-right: 50px;
+}
+
+.nav1> li> a{
+	text-decoration: none;
+	color: #8B0000;
+	font-family: sans-serif;
+}
+
+.nav1 > li > a:hover{
+	color: #8B0000;
+}
+
+
+body{
+	background-color: #000000;
+}
+
+#one{
+	text-align: center;
+	font-size:100px;
+	font-family: serif;
+	color: #8B0000;
+
+
+}
+
+
+#three{
+	text-align: center;
+	font-size: 20px;
+	font-family: serif;
+	color: #8B0000
+}
+
+
+#p{
+	text-align: center;
+	font-size: 20px;
+	font-family: serif;
+	color: #8B0000
+}
+
+#videos{
+	display: block;
+margin: 0 auto;
+}
